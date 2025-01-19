@@ -1,2 +1,2 @@
 # masala-mahal-public-project
-Masala Mahal Project by Nivi Munjal. 
+Masala Mahal Website Project by Nivi Munjal. 
